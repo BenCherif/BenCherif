@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-### Hi everyone 👋
-
+--> 
 
 - 🔭 I’m currently working on  Flutter, Android & Swift
 - 🌱 I’m currently learning Go  
