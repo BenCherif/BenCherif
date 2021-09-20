@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi everyone 👋
+
+
+- 🔭 I’m currently working on  Flutter, Android & Swift
+- 🌱 I’m currently learning Go  
+- 👯 I’m looking to collaborate on open source projects  
+- 📫 How to reach me: https://linktr.ee/Bencherif 
+- ⚡ Fun fact: ...
+ 
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bencherif&theme=vue) 
+
+</details>
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/BenCherif/count.svg" />
+</p>
