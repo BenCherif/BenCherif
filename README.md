@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-- 🔭 I’m currently working on  Flutter, Android & Swift
-- 🌱 I’m currently learning Go  
+- 🔭 I’m currently working on Golang, Flutter, Android & Swift
+- 🌱 I’m currently learning ...  
 - 👯 I’m looking to collaborate on open source projects  
 - 📫 How to reach me: https://linktr.ee/Bencherif 
 - ⚡ Fun fact: ...
