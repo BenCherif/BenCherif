@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects  
 - 📫 How to reach me: https://linktr.ee/Bencherif 
 - ⚡ Fun fact: ...
-  
-<summary>📊 Github Stats</summary>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bencherif&label=Profile%20views&color=0e75b6&style=flat" alt="Bencherif" /> </p>
 
