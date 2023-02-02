@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bencherif&label=Profile%20views&color=0e75b6&style=flat" alt="Bencherif" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bencherif&show_icons=true&locale=en&layout=compact" alt="Bencherif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bencherif&show_icons=true&locale=en" alt="Bencherif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bencherif&" alt="Bencherif" /></p>
 
